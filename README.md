@@ -1,6 +1,6 @@
 Beep boop.
 
-Electronics are fun.
+Electronics is fun.
 
 <!---
 SalvatoryMalamar/SalvatoryMalamar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
